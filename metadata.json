@@ -1,6 +1,0 @@
-{
-  "name": "Smart Market Analyst AI",
-  "description": "منصة احترافية مدعومة بالذكاء الاصطناعي تقدم تحليلات فنية وأساسية تفصيلية للأسهم، الذهب، والعملات الرقمية لمساعدة المستثمرين في اتخاذ قرارات مدروسة.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
